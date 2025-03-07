@@ -7,7 +7,7 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "jane-doe": "Jane Doe",
+        "brandon-koh": "Brandon Koh",
         "huang-tian": "Huang Tian",
         "jean-doe": "Jean Doe",
         "jeron-kor": "Jeron Kor"
@@ -132,6 +132,11 @@
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
       },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/brvndonkoh.md",
+      "headings": {},
       "headingKeywords": {}
     },
     {
