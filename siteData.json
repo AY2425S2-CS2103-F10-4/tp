@@ -7,9 +7,8 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "huang-tian": "Huang Tian",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -133,6 +132,11 @@
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
       },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/huangtian666.md",
+      "headings": {},
       "headingKeywords": {}
     },
     {
