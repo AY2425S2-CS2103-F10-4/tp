@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "brandon-koh": "Brandon Koh",
         "huang-tian": "Huang Tian",
-        "jean-doe": "Jean Doe",
+        "david-chong": "David Chong",
         "jeron-kor": "Jeron Kor"
       },
       "headingKeywords": {}
@@ -136,6 +136,11 @@
     },
     {
       "src": "team/brvndonkoh.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/davidchongg.md",
       "headings": {},
       "headingKeywords": {}
     },
