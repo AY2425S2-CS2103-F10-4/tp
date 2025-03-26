@@ -7,3 +7,4 @@ coverage:
   ignore:
     - "src/main/java/seedu/address/ui/*.java"
     - "src/main/java/seedu/address/ui/**/*.java"
+  
