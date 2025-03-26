@@ -1,5 +1,8 @@
 coverage:
   status:
+    patch:
+      ignore:
+        - "src/main/java/seedu/address/ui/**"
     project:
       default:
         target: auto
@@ -7,7 +10,3 @@ coverage:
 
 ignore:
   - "src/main/java/seedu/address/ui/**"
-
-patch:
-  ignore:
-    - "src/main/java/seedu/address/ui**"
