@@ -1,12 +1,2 @@
-coverage:
-  status:
-    patch:
-      ignore:
-        - "src/main/java/seedu/address/ui/**"
-    project:
-      default:
-        target: auto
-        threshold: 1%
-
 ignore:
-  - "src/main/java/seedu/address/ui/**"
+  - "src/main/java/ui"
