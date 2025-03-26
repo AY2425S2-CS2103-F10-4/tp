@@ -4,11 +4,10 @@ coverage:
       default:
         target: auto
         threshold: 1%
-  ignore:
-    - "src/main/java/seedu/address/ui/*.java"
-    - "src/main/java/seedu/address/ui/**/*.java"
 
-  patch:
-    ignore:
-      - "src/main/java/seedu/address/ui/*.java"
-      - "src/main/java/seedu/address/ui/**/*.java"
+ignore:
+  - "seedu/address/ui/**"
+
+patch:
+  ignore:
+    - "seedu/address/ui/**"
