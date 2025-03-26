@@ -6,8 +6,8 @@ coverage:
         threshold: 1%
 
 ignore:
-  - "seedu/address/ui/**"
+  - "src/main/java/seedu/address/ui/**"
 
 patch:
   ignore:
-    - "seedu/address/ui/**"
+    - "src/main/java/seedu/address/ui**"
