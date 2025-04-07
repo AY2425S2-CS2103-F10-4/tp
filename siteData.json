@@ -50,8 +50,8 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
+        "list-command": "List Command",
+        "sort-command": "Sort Command",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -70,8 +70,8 @@
         "clearing-all-entries": "Clearing All Entries",
         "exiting-the-program": "Exiting the Program",
         "help-command": "Help Command",
-        "saving-and-editing-data": "Saving and Editing Data",
-        "command-history": "Command History"
+        "command-history": "Command History",
+        "saving-and-editing-data": "Saving and Editing Data"
       },
       "headingKeywords": {}
     },
