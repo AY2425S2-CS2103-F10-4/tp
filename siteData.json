@@ -122,6 +122,7 @@
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
+        "head-format-list-t-subject-tt-tuitiontime": "&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\nFormat: list [t/SUBJECT] [tt/TUITIONTIME]",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "sorting-sort": "Sorting : sort",
