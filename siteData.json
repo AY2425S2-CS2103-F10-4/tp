@@ -59,10 +59,19 @@
         "use-cases": "Use cases",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
-        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
-        "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "appendix-instructions-for-manual-testing": "Appendix: Instructions for Manual Testing",
+        "launch-and-shutdown": "Launch and Shutdown",
+        "adding-a-person": "Adding a Person",
+        "listing-all-persons": "Listing All Persons",
+        "finding-persons-by-name": "Finding Persons by Name",
+        "editing-a-person": "Editing a Person",
+        "deleting-a-person": "Deleting a Person",
+        "sorting": "Sorting",
+        "clearing-all-entries": "Clearing All Entries",
+        "exiting-the-program": "Exiting the Program",
+        "help-command": "Help Command",
+        "saving-and-editing-data": "Saving and Editing Data",
+        "command-history": "Command History"
       },
       "headingKeywords": {}
     },
@@ -106,7 +115,8 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "tutorpromax": "TutorProMax",
+        "tutorpromax": "🧑‍🏫 TutorProMax",
+        "why-choose-tutorpromax": "Why Choose TutorProMax?",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
