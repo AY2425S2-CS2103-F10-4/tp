@@ -156,12 +156,16 @@
     },
     {
       "src": "team/brvndonkoh.md",
-      "headings": {},
+      "headings": {
+        "brandon-koh-brvndonkoh": "👤 Brandon Koh (brvndonkoh)"
+      },
       "headingKeywords": {}
     },
     {
       "src": "team/davidchongg.md",
-      "headings": {},
+      "headings": {
+        "david-chong-davidchongg": "👤 David Chong (davidchongg)"
+      },
       "headingKeywords": {}
     },
     {
@@ -173,9 +177,8 @@
     },
     {
       "src": "team/jeronkk.md",
-      "title": "John Doe's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "jeron-jeronkk": "👤 Jeron (jeronkk)"
       },
       "headingKeywords": {}
     },
